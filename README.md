@@ -1,3 +1,7 @@
+# todo-app-react-go
+
+React + Go + MySQL で作る個人開発用 ToDo リスト
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
